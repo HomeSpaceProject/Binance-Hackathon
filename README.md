@@ -2,7 +2,7 @@
 
 ## Video
 [![Video - Homespace Virtual Poker Rooms](https://img.youtube.com/vi/-FVCQ_T-QBY/0.jpg)](https://www.youtube.com/watch?v=-FVCQ_T-QBY)
-
+https://www.youtube.com/watch?v=-FVCQ_T-QBY
 
 ## Resources
 - [Smart contracts](https://github.com/HomeSpaceProject/homespace-poker
